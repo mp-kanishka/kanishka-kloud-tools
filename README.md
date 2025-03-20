@@ -71,7 +71,3 @@ Please refer to the README.md file in each tool's directory for specific usage i
 ## Licence
 
 This project is available for use under the MIT Licence.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
